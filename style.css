@@ -1,0 +1,46 @@
+body {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     background: url(https://img.freepik.com/free-photo/abstract-flowing-neon-wave-background_53876-101942.jpg?size=626&ext=jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.main {
+     /* background-color: white; */
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+     width: 400px;
+     height: 320px;
+     top: 20px;
+     padding: 5px;
+     position: relative;
+     border: 2px solid white;
+}
+table {
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     width: 100%;
+     /* padding: 10px 0; */
+     margin-top: 10px;
+}
+td input {
+     padding: 18px 37px;
+     color: white;
+     background: black;
+     opacity: 0.8;
+     font-size: 20px;
+}
+.textview {
+     width: 370px;
+     padding: 10px;
+     height: 20px;
+     background: transparent;
+     color: white;
+     font-size: 30px;
+}
